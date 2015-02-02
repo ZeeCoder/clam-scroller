@@ -1,0 +1,7 @@
+# Custom app rules #
+web/css/sourcemap
+web/js/sourcemap
+
+.DS_Store
+node_modules
+front_src/bower_components
