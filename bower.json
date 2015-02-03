@@ -1,8 +1,8 @@
 {
   "name": "clam-scroller",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "devDependencies": {
-    "clam": "0.3.0-alpha3"
+    "clam": "0.4.0-alpha2"
   },
   "dependencies": {
     "jquery": "~2.1.3"

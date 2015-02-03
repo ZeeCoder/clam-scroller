@@ -5,11 +5,15 @@
     <title>clam-scroller demo</title>
 </head>
 <body>
-    <ul>
-        <li><a href="javascript: void(0)" class="jsm-scroller jsm-scroller__scroll" data-jsm-scroller='{"targetID": "first", "yOffset": -30}'>first</a></li>
-        <li><a href="javascript: void(0)" class="jsm-scroller jsm-scroller__scroll" data-jsm-scroller='{"targetID": "second", "yOffset": -100, "scrollSpeed": 2000}'>second</a></li>
-        <li><a href="javascript: void(0)" class="jsm-scroller jsm-scroller__scroll" data-jsm-scroller='{"targetID": "third", "scrollSpeed": 100}'>third</a></li>
+    <b>Local hooks:</b>
+    <ul class="jsm-scroller">
+        <li><a href="javascript: void(0)" class="jsm-scroller__scroll" data-jsm-scroller='{"targetID": "first", "yOffset": -30}'>first</a></li>
+        <li><a href="javascript: void(0)" class="jsm-scroller__scroll" data-jsm-scroller='{"targetID": "second", "yOffset": -100, "scrollSpeed": 2000}'>second</a></li>
     </ul>
+
+    <!-- Global hook -->
+    <b>Global hook:</b>
+    <a href="javascript: void(0)" class="jsm-scroller__scroll" data-jsm-scroller='{"targetID": "third", "yOffset": -100, "scrollSpeed": 100}'>third</a>
 
     <h1 id="first">first</h1>
     <br><br><br><br><br><br><br><br><br><br><br>
