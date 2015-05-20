@@ -1,5 +1,5 @@
-Clam Scroller
-=========
+# Clam Scroller
+[![Project Status](http://stillmaintained.com/ZeeCoder/clam-scroller.png)](http://stillmaintained.com/ZeeCoder/clam-scroller)
 
 To test: clone, and visit the `web/` folder.
 
