@@ -1,4 +1,6 @@
 # Clam Scroller
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ZeeCoder/clam-scroller.svg)](https://greenkeeper.io/)
 [![Project Status](http://stillmaintained.com/ZeeCoder/clam-scroller.png)](http://stillmaintained.com/ZeeCoder/clam-scroller)
 
 To test: clone, and visit the `web/` folder.
